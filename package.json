@@ -1,0 +1,22 @@
+{
+  "name": "reprograma-aula6-introducao-ao-node-js",
+  "version": "1.0.0",
+  "description": "Aula 12.09",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luana-Leticia/reprograma-aula6-introducao-ao-node-JS.git"
+  },
+  "author": "Luana Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luana-Leticia/reprograma-aula6-introducao-ao-node-JS/issues"
+  },
+  "homepage": "https://github.com/Luana-Leticia/reprograma-aula6-introducao-ao-node-JS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
